@@ -1,0 +1,14 @@
+# Swift PM / Build
+.build/
+.swiftpm/
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Xcode user settings / metadata
+*.xcuserstate
+xcuserdata/
